@@ -1,4 +1,4 @@
- Hi there, I'm Gergő Kerecsen 👋
+Hi there, I'm Gergő Kerecsen 👋
 
 Welcome to my GitHub profile!  
 I'm **Gergő**, a passionate Computer Science Engineer student from Debrecen.
@@ -8,6 +8,12 @@ I'm **Gergő**, a passionate Computer Science Engineer student from Debrecen.
 ## 🚀 About Me
 
 I am in my final semester as a student at the Faculty of Information Technology. I like to work on projects that can develop my programming skills and I'm not afraid of challenges.
+
+---
+
+## 📚 Thesis
+
+**Sensor-based data collection application with a web interface**
 
 ---
 
